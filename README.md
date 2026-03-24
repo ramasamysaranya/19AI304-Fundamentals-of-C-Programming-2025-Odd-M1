@@ -43,6 +43,8 @@ int main() {
 }
 ```
 # Output:
+<img width="802" height="328" alt="image" src="https://github.com/user-attachments/assets/bc9307e4-e9a0-456a-bd8a-7fbd06f3ea84" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -84,6 +86,8 @@ int main() {
 }
 ```
 # Output:
+<img width="805" height="211" alt="image" src="https://github.com/user-attachments/assets/2267636b-750c-47b6-bfa2-2b03aadbc8e1" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -122,6 +126,8 @@ int main() {
 }
 ```
 # Output:
+<img width="803" height="263" alt="image" src="https://github.com/user-attachments/assets/0612ec20-6e02-4067-b5f4-969dd1883319" />
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -190,6 +196,8 @@ int main() {
 }
 ```
 # Output:
+<img width="807" height="403" alt="image" src="https://github.com/user-attachments/assets/d363c87c-5f70-411a-adfe-c7f458edf11f" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -252,6 +260,8 @@ int main() {
 }
 ```
 # Output:
+<img width="1040" height="324" alt="image" src="https://github.com/user-attachments/assets/56ab7e4c-0825-4e4b-a9c9-aae3eaaaf17a" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
